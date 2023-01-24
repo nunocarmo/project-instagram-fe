@@ -1,2 +1,2 @@
-const LINK = "https://fake-insta-mind-api.herokuapp.com";
+const LINK = "fakeinstaapi-production.up.railway.app";
 export default LINK;
