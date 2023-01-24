@@ -1,2 +1,2 @@
-const LINK = "fakeinstaapi-production.up.railway.app";
+const LINK = "https://fakeinstaapi-production.up.railway.app";
 export default LINK;
